@@ -1,0 +1,18 @@
+[+] create npm project ✅
+
+[+] create index, css, js files ✅
+
+[+] install dependencies express, nodenom, dotenv ✅
+
+[+] create express server ✅
+
+[+] Do front-end part ✅
+
+[+] install socket.io and setup socket.io in server and client ✅
+
+[+] send messag from client to server ✅
+
+[+] send messag from server to all client ✅
+
+
+
