@@ -29,7 +29,7 @@ function sendMessage(message) {
 function appendMessage(msg, type) {
     let mainDiv = document.createElement('div');
     let className = type;
-    mainDiv.classList.add(className, 'message',);
+    mainDiv.classList.add(className, 'message');
 
     // markup
     let markup = `
