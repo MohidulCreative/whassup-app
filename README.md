@@ -1,5 +1,5 @@
 
-# Real-time exprees chat application
+# Real-time express chat application
 
 This is a real-time chat application build in exprees
 and socket.io library. It's a very basic app you can send message real-time to others who are in the application. 
